@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1651733523 source:c:\users\joy\desktop\bus_service\main.cpp
+	<iostream>
+	<map>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+
+1651751770 source:c:\users\joy\desktop\b_check.cpp
+	<bits/stdc++.h>
+
